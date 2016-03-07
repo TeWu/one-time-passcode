@@ -1,0 +1,17 @@
+*.*~
+doc/**/*~.html
+
+*.gem
+Gemfile.lock
+.bundle
+
+.idea/
+log/
+out/
+target/
+*.iml
+
+.project
+.metadata
+tmp/**
+tmp/**/*
